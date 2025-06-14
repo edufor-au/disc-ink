@@ -5,8 +5,8 @@
   "assets": {
     "librebaskerville-regular": "assets/LibreBaskerville-Regular.ttf",
     "librebaskerville-bold": "assets/LibreBaskerville-Bold.ttf",
-    "ptserif-regular": "assets/PTSerif-Regular.ttf",
-    "ptserif-bold": "assets/PTSerif-Bold.ttf"
+    "librefranklin-regular": "assets/LibreFranklin-Regular.ttf",
+    "librefranklin-bold": "assets/LibreFranklin-Bold.ttf"
   },
   "name": "Inky Theme",
   "color_schemes": {

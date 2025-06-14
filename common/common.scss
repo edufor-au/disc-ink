@@ -10,25 +10,25 @@
 }
 
 @font-face {
-  font-family: "PT Serif";
-  src: url($ptserif-regular);
+  font-family: "Libre Franklin";
+  src: url($librefranklin-regular);
 }
 
 @font-face {
-  font-family: "PT Serif";
-  src: url($ptserif-bold);
+  font-family: "Libre Franklin";
+  src: url($librefranklin-bold);
   font-weight: bold;
 }
 
 // Global styles
 :root {
   --font-serif-1: "Libre Baskerville", serif;
-  --font-serif-2: "PT Serif", serif;
+  --font-sans-1: "Libre Franklin", sans-serif;
 }
 
 html {
   text-size-adjust: none;
-  font-family: var(--font-serif-2);
+  font-family: var(--font-sans-1);
   font-size: 112.5%;
   line-height: 1.5;
 }
@@ -201,7 +201,7 @@ div.ac-wrap {
     border-top: none;
 
     .link-top-line {
-      font-family: var(--font-serif-2);
+      font-family: var(--font-sans-1);
 
       // add underline on link hover
       .title:hover {
