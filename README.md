@@ -1,4 +1,5 @@
-# Inky Theme
+# Inky Theme Edufor Edition
+
 The theme is designed to make reading easy. Light and dark modes are available.
 
 ### Light Mode

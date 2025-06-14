@@ -35,5 +35,11 @@
       "love": "ff4245"
     }
   },
-  "components": ["https://github.com/discourse/discourse-search-banner.git"]
+  "components": [
+    "https://github.com/discourse/Discourse-easy-footer.git",
+    "https://github.com/discourse/discourse-search-banner.git"
+  ],
+  "modifiers": {
+    "serialize_topic_excerpts": true
+  }
 }
